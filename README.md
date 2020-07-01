@@ -5,3 +5,5 @@
 > IDE : Visual Studio Code
 > Test page : http://34.64.207.24:4004
 <br>
+
+Your need ``npm init -y``
