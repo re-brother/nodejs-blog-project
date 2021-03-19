@@ -11,6 +11,6 @@
 
 ## how to run
 
-``npm init -y``
-``npm install``
-``npm run start``
+``npm init -y`` <br>
+``npm install`` <br>
+``npm start``
