@@ -9,4 +9,8 @@
 
 <br>
 
-Your need ``npm init -y``
+## how to run
+
+``npm init -y``
+``npm install``
+``npm run start``
